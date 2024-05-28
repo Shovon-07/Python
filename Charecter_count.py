@@ -5,4 +5,4 @@ def charecterCount() :
 
   print(len(text[0]))
 
-# charecterCount()
+charecterCount()
