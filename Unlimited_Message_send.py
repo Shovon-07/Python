@@ -1,7 +1,7 @@
 import pyautogui
 import time
 
-time.sleep(5)
+time.sleep(1)
 count = 1
 
 while count<=10 :
